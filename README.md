@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I have been creating bugs since 2006<br>📚 I'm currently learning Frontend (TS, Next.js)<br>🎯 Goals: To be a full stack developer<br>🎲 Fun fact: I never liked Apple, but now I love it<br>- 💬 Ask me about: PHP, Docker, Linux</p>
+<p align="left">✨ I have been creating bugs since 2006<br>📚 I'm currently learning Frontend (TS, Next.js)<br>🎯 Goals: To be a full stack developer<br>🎲 Fun fact: I never liked Apple, but now I love it<br>💬 Ask me about: PHP, Docker, Linux</p>
 
 ###
 
