@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning Frontend (TS, Next.js)<br>🎯 Goals: To be a full stack developer<br>🎲 Fun fact: I never liked Apple, but now I love it</p>
+<p align="left">✨ I have been creating bugs since 2006<br>📚 I'm currently learning Frontend (TS, Next.js)<br>🎯 Goals: To be a full stack developer<br>🎲 Fun fact: I never liked Apple, but now I love it<br>- 💬 Ask me about: PHP, Docker, Linux</p>
 
 ###
 
@@ -85,18 +85,3 @@
 </div>
 
 ###
-
-<!--
-**jkbmaj/jkbmaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
