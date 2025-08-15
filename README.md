@@ -1,31 +1,38 @@
-<div align="center">
-  <h1>Hello, I'm Jakub!</h1>
-  <p>Passionate PHP Developer from Poland 🇵🇱</p>
-</div>
+```text
+$ echo "Hello, I'm Jakub!"
+Hello, I'm Jakub!
 
-## About Me
+$ whoami
+jakub    # PHP Developer from Poland 🇵🇱
 
-- 🌟 I have been creating bugs since 2006
-- 💬 Ask me about PHP, Docker, AI, MacOS and Linux
+$ neofetch
+User:         jkbmaj
+Role:         PHP Developer
+Since:        2006
 
-## Technologies I Work With
+$ cat ABOUT.md
+- Creating (and fixing) bugs since 2006
+- Ask me about PHP, Docker, AI, macOS and Linux
+```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/apple/apple-original.svg" height="40" alt="MacOS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+```bash
+$ ls skills
+ai  docker  git  github  jira  linux  macos  mysql  php  phpstorm  postgresql
+```
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/phpstorm/phpstorm-original.svg" height="40" alt="PHPStorm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/jira/jira-original.svg" height="40" alt="Jira" />
-</div>
-
-## Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jkbmaj/)
+```text
+$ tree stack
+stack
+├── languages
+│   └── PHP
+├── databases
+│   ├── PostgreSQL
+│   └── MySQL
+├── tooling
+│   ├── Docker
+│   ├── Git / GitHub
+│   └── PHPStorm / Jira
+└── platforms
+    ├── macOS
+    └── Linux
+```
